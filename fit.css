@@ -1,0 +1,96 @@
+.div1{
+    background-image: url("gym.jpg");
+    background-repeat: repeat;
+    width: 200vh;
+    height: 35vh;
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+
+}
+h1{
+    text-decoration: underline;
+    color: whitesmoke;
+    font-size: 45px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-style: italic;
+}
+p{
+
+    color: white;
+    text-align: end;
+    text-transform: capitalize;
+    text-shadow: 2px 1px 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+
+.div2{
+    background: linear-gradient(to top right,#CDC2A5,#16325B,#F5EDED);
+    width: 206vh;
+    height: 250vh;
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+    color: darkblue;
+}
+h5{
+    color: white;
+    text-align: center;
+    text-transform: lowercase;
+    text-shadow: 2px 1px 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h4{
+    color: white;
+    text-align: start;
+    text-transform: uppercase;
+    text-shadow: 2px 1px 5px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h2{
+    background-color: goldenrod;
+    padding: 20px 20px;
+    text-transform: capitalize;
+    font-size: 25px;
+    color: whitesmoke;
+}
+.one{
+    background-color: azure;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: 5% 50% 0% 40%;
+    font-size: 20px;
+    font-family: initial;
+    outline: 2px solid lightblue;
+
+}
+.two{
+    background-color: azure;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: 5% 50% 0% 40%;
+    font-size: 20px;
+    font-family: initial;
+    outline: 2px solid lightblue;
+
+}
+.three{
+    background-color: azure;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    margin: 5% 50% 0% 40%;
+    font-size: 20px;
+    font-family: initial;
+    outline: 2px solid lightblue;
+
+}
